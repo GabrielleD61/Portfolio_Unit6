@@ -1,8 +1,8 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://1.soompi.io/wp-content/uploads/2015/12/exo-sing-for-you-teaser-img-1.jpg");
       background-size: cover;
-      color: white;
+      color: pink;
     }
     .nav {
       color: white;
@@ -12,8 +12,8 @@
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      
+      
     }
     ul {
       padding: 10px;
